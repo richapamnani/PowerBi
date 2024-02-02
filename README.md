@@ -1,2 +1,2 @@
 # Powerbi
-In this project i have taken  data of Purchase . By using following libraries i have analyses the data by Power Bi
+In this project i have taken  data of Purchase .I have analyses the data by Power Bi
